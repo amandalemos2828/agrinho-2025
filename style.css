@@ -13,7 +13,7 @@ body {
 
 header {
   background-color: #020086;
-  color: #ddd8d8;
+  color: #c0c0c0;
   padding: 10px 20px;
   display: flex;
   justify-content: space-between;
@@ -54,7 +54,7 @@ nav .menu {
 
 
 .titulo {
-  background-color: #949494;
+  background-color: #c0c0c0;
   padding: 40px;
   text-align: center;
 }
